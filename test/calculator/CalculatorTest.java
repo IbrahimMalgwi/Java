@@ -43,5 +43,5 @@ public class CalculatorTest {
         int result = calculator.dividTwoNumbers(4,2);
         Assertions.assertEquals(result, 2);
     }
-    // this is my calculator application 
+    // this is my calculator application
 }
