@@ -24,8 +24,8 @@ class AirConditioner {
 
     public int increaseTemperature(int temp) throws Exception {
         if(temp>30) {
-//            throw new Exception("invalid temp");
-            temp = 30;
+          throw new Exception("invalid temp");
+            //temp = 30;
         }
         else{
             System.out.println("Temperature is: "+ temp);
