@@ -10,7 +10,7 @@ public class BikeTest {
     private Bike bike;
 
     @BeforeEach
-    public void Bike() {bike = new Bike();}
+    public void bike() {bike = new Bike();}
 
     @Test
     public void test_isOn() throws Exception {
