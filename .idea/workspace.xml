@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="my work">
+    <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="my latet work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/airConditioner/AirCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/airConditioner/AirCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/tddClass/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/deitelExcersise/tddClass/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bike/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bike/BikeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,13 +14,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/airConditioner/AirCondition.java" root0="SKIP_INSPECTION" />
@@ -49,6 +52,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/java/test/deitelExcersise/tddClass",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -68,8 +72,9 @@
       <recent name="calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AccountTest.depositMoneyAbove500BalanceIncreasesTest">
-    <configuration name="AccountTest.depositMoneyAbove500BalanceIncreasesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Guessing">
+    <configuration name="Guessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.tddClass.Guessing" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -77,31 +82,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="deitelExcersise.tddClass" />
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.tddClass.AccountTest" />
-      <option name="METHOD_NAME" value="depositMoneyAbove500BalanceIncreasesTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountTest.depositMoneytwiceBalanceIncreasesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="deitelExcersise.tddClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="deitelExcersise.tddClass" />
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.tddClass.AccountTest" />
-      <option name="METHOD_NAME" value="depositMoneytwiceBalanceIncreasesTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BikeTest.test_gearOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeTest.test_gearFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -111,7 +96,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="bike" />
       <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
-      <option name="METHOD_NAME" value="test_gearOne" />
+      <option name="METHOD_NAME" value="test_gearFour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.test_gearMinusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
+      <option name="METHOD_NAME" value="test_gearMinusOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AccountTest.depositMoneyAbove500BalanceIncreasesTest" />
-        <item itemvalue="JUnit.AccountTest.depositMoneytwiceBalanceIncreasesTest" />
+        <item itemvalue="Application.Guessing" />
+        <item itemvalue="JUnit.BikeTest.test_gearMinusOne" />
+        <item itemvalue="JUnit.BikeTest.test_gearFour" />
         <item itemvalue="JUnit.BikeTest.test_gearThree" />
         <item itemvalue="JUnit.BikeTest.test_gearTwo" />
-        <item itemvalue="JUnit.BikeTest.test_gearOne" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,9 @@
       <updated>1656153751888</updated>
       <workItem from="1656153753400" duration="12894000" />
       <workItem from="1656249924805" duration="648000" />
-      <workItem from="1656250615676" duration="18539000" />
+      <workItem from="1656250615676" duration="19233000" />
+      <workItem from="1656286847335" duration="1966000" />
+      <workItem from="1656288926797" duration="6281000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -178,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656268446469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="my latet work">
+      <created>1656283702461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656283702461</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +207,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my work" />
-    <option name="LAST_COMMIT_MESSAGE" value="my work" />
+    <MESSAGE value="my latet work" />
+    <option name="LAST_COMMIT_MESSAGE" value="my latet work" />
   </component>
 </project>

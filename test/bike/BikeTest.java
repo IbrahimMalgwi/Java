@@ -26,9 +26,9 @@ public class BikeTest {
 
 
     @Test
-    public void test_gearOne() throws Exception {
-        int gearOne = bike.gearOne(1, 19);
-        Assertions.assertEquals(gearOne, 20);
+    public void test_gearOne() throws Exception { //given that i have a bike
+        int gearOne = bike.gearOne(1, 17); //Check for gear 1
+        Assertions.assertEquals(gearOne, 18); //Validate that gear one runs well
     }
 
     @Test
@@ -42,6 +42,13 @@ public class BikeTest {
         int gearThree = bike.gearThree(3, 32);
         Assertions.assertEquals(gearThree, 35);
     }
+
+    @Test
+    public void test_gearFour() throws Exception {
+        int gearFour = bike.gearFour(4, 43);
+        Assertions.assertEquals(gearFour, 47);
+    }
+
 
 
 }

@@ -25,13 +25,13 @@ public class Bike {
         if (gear == 1) {
             System.out.println("Hello your on gear one");
         } else {
-            throw new Exception("Not on gear 1");
+            throw new Exception("Your gear is not one");
         }
         if (speedLimit >= 0 && speedLimit <= 20) {
             speedLimit++;
         }
         if (speedLimit > 20 || speedLimit < 0) {
-            throw new Exception("Your within your limit");
+            throw new Exception("Invalid limit");
         }
         return speedLimit;
     }
@@ -40,13 +40,13 @@ public class Bike {
         if (gear == 2) {
             System.out.println("Hello your on gear two");
         } else {
-            throw new Exception("Your should be on gear 2");
+            throw new Exception("Your gear is is not 2");
         }
         if (speedLimit >= 21 && speedLimit <= 30) {
             speedLimit += 2;
         }
         if (speedLimit > 30 || speedLimit < 21) {
-            throw new Exception("Your outside your limit");
+            throw new Exception("invalid limit");
         }
         return speedLimit;
     }
@@ -74,12 +74,27 @@ public class Bike {
             throw new Exception("Not on gear 4");
         }
         if (speedLimit >= 41 && speedLimit <= 50) {
-            speedLimit++;
+            speedLimit += 4;
         }
-        if (speedLimit > 41 || speedLimit < 30){
-            throw new Exception("your within your limit");
+        if (speedLimit > 50 || speedLimit < 41){
+            throw new Exception("invalid limit");
         }
         return speedLimit;
-
     }
+
+    public int gearMinusOne(int gear, int speedLimit) throws Exception {
+        if (gear == -1) {
+            System.out.println("Hello your on gear inus one");
+        } else {
+            throw new Exception("Your gear is not one");
+        }
+        if (speedLimit >= 0 && speedLimit <= 20) {
+            speedLimit--;
+        }
+        if (speedLimit > 20 || speedLimit < 0) {
+            throw new Exception("Invalid limit");
+        }
+        return speedLimit;
+    }
+
 }
