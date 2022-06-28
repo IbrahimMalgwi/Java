@@ -2,10 +2,10 @@ package bike;
 
 public class Bike {
     public String isOn(String on) throws Exception {        if (on == "on"){
-            System.out.println("Bike is one");
+            System.out.println("Bike is on");
         }
         else {
-            throw new Exception("Please on the bike well");
+            throw new Exception("Please start the bike");
         }
         return on;
     }
@@ -21,32 +21,34 @@ public class Bike {
     }
 
 
-    public int gearOne(int gear, int speedLimit) throws Exception {
-        if (gear == 1) {
-            System.out.println("Hello your on gear one");
-        } else {
-            throw new Exception("Your gear is not one");
-        }
-        if (speedLimit >= 0 && speedLimit <= 20) {
+    public int gearOne(int speedLimit) throws Exception {
+        if (speedLimit<20 && speedLimit>=0) {
             speedLimit++;
+            System.out.println("Hello your on gear one");
         }
-        if (speedLimit > 20 || speedLimit < 0) {
+
+        if (speedLimit>20 && speedLimit<=30){
+            speedLimit=gearTwo(speedLimit);
+        }
+        if (speedLimit < 0) {
             throw new Exception("Invalid limit");
         }
         return speedLimit;
     }
 
-    public int gearTwo(int gear, int speedLimit) throws Exception {
-        if (gear == 2) {
+    public int gearTwo( int speedLimit) throws Exception {
+        if (speedLimit<30 && speedLimit>=20) {
+            speedLimit++;
             System.out.println("Hello your on gear two");
         } else {
-            throw new Exception("Your gear is is not 2");
+            throw new Exception("Your gear is not two");
         }
-        if (speedLimit >= 21 && speedLimit <= 30) {
-            speedLimit += 2;
+
+        if (speedLimit>30 && speedLimit<=40){
+            speedLimit=gearTwo(speedLimit);
         }
-        if (speedLimit > 30 || speedLimit < 21) {
-            throw new Exception("invalid limit");
+        if (speedLimit < 20) {
+            throw new Exception("Invalid limit");
         }
         return speedLimit;
     }

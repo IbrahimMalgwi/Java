@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="my latet work">
+      <change afterPath="$PROJECT_DIR$/src/airConditioner/AirConditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/airConditioner/AirConditionerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/airConditioner/AirCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/tddClass/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deitelExcersise/tddClass/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/airConditioner/AirConditionTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/bike/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bike/BikeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/petrol/PetrolPurchaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/petrol/PetrolPurchaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -25,7 +32,7 @@
     <option name="projectConfigVersion" value="5" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/airConditioner/AirCondition.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/airConditioner/AirConditioner.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/deitelExcersise/tddClass/Account.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -65,28 +72,63 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
       <recent name="petrol" />
       <recent name="bike" />
       <recent name="AirConditioner" />
       <recent name="deitelExcersise.tddClass" />
-      <recent name="calculator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PetrolPurchaseTest.test_getAndSetPrice">
-    <configuration name="Guessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.tddClass.Guessing" />
+  <component name="RunManager" selected="Application.NumberTriangle2">
+    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberTriangle" />
       <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="deitelExcersise.tddClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.test_gearMinusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberTriangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberTriangle2" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirConditionerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="airConditioner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="airConditioner" />
+      <option name="MAIN_CLASS_NAME" value="airConditioner.AirConditionerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirConditionerTest.testAirConditionCanBeOff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="airConditioner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="airConditioner" />
+      <option name="MAIN_CLASS_NAME" value="airConditioner.AirConditionerTest" />
+      <option name="METHOD_NAME" value="testAirConditionCanBeOff" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.test_gearOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -96,67 +138,26 @@
       </extension>
       <option name="PACKAGE_NAME" value="bike" />
       <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
-      <option name="METHOD_NAME" value="test_gearMinusOne" />
+      <option name="METHOD_NAME" value="test_gearOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetrolPurchaseTest.test_getAndSetPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="petrol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="petrol" />
-      <option name="MAIN_CLASS_NAME" value="petrol.PetrolPurchaseTest" />
-      <option name="METHOD_NAME" value="test_getAndSetPrice" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PetrolPurchaseTest.test_getAndSetTypeOfPetrol" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="petrol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="petrol" />
-      <option name="MAIN_CLASS_NAME" value="petrol.PetrolPurchaseTest" />
-      <option name="METHOD_NAME" value="test_getAndSetTypeOfPetrol" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PetrolPurchaseTest.test_getLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="petrol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="petrol" />
-      <option name="MAIN_CLASS_NAME" value="petrol.PetrolPurchaseTest" />
-      <option name="METHOD_NAME" value="test_getLocation" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.NumberTriangle2" />
+      <item itemvalue="Application.NumberTriangle" />
+      <item itemvalue="JUnit.AirConditionerTest" />
+      <item itemvalue="JUnit.AirConditionerTest.testAirConditionCanBeOff" />
+      <item itemvalue="JUnit.BikeTest.test_gearOne" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PetrolPurchaseTest.test_getAndSetPrice" />
-        <item itemvalue="JUnit.PetrolPurchaseTest.test_getAndSetTypeOfPetrol" />
-        <item itemvalue="JUnit.PetrolPurchaseTest.test_getLocation" />
-        <item itemvalue="Application.Guessing" />
-        <item itemvalue="JUnit.BikeTest.test_gearMinusOne" />
+        <item itemvalue="Application.NumberTriangle2" />
+        <item itemvalue="JUnit.BikeTest.test_gearOne" />
+        <item itemvalue="Application.NumberTriangle" />
+        <item itemvalue="JUnit.AirConditionerTest.testAirConditionCanBeOff" />
+        <item itemvalue="JUnit.AirConditionerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +174,10 @@
       <workItem from="1656250615676" duration="19233000" />
       <workItem from="1656286847335" duration="1966000" />
       <workItem from="1656288926797" duration="6281000" />
-      <workItem from="1656357645428" duration="2576000" />
+      <workItem from="1656357645428" duration="6410000" />
+      <workItem from="1656421339771" duration="529000" />
+      <workItem from="1656428444404" duration="6728000" />
+      <workItem from="1656435525782" duration="8995000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>

@@ -27,13 +27,13 @@ public class BikeTest {
 
     @Test
     public void test_gearOne() throws Exception { //given that i have a bike
-        int gearOne = bike.gearOne(1, 17); //Check for gear 1
-        Assertions.assertEquals(gearOne, 18); //Validate that gear one runs well
+        int gearOne = bike.gearOne( 20); //Check for gear 1
+        Assertions.assertEquals(bike.gearTwo(20), 21); //Validate that gear one runs well
     }
 
     @Test
     public void test_gearTwo() throws Exception {
-        int gearOne = bike.gearTwo(2, 22);
+        int gearOne = bike.gearTwo( 22);
         Assertions.assertEquals(gearOne, 24);
     }
 
@@ -49,6 +49,13 @@ public class BikeTest {
         Assertions.assertEquals(gearFour, 47);
     }
 
+//    @Test
+//    void  testThatGearCanBeAutomated() throws Exception {
+//        bike.gearOne(1,20);
 
 
-}
+
+    }
+
+
+

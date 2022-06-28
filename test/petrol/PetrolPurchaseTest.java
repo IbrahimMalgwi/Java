@@ -32,5 +32,18 @@ class PetrolPurchaseTest {
         double result = petrolPurchase.getPrice();
         Assertions.assertNotNull(result);
     }
+    @Test
+    public void test_getAndSetQuantity(){
+        petrolPurchase.setQuantity(20);
+        int result = petrolPurchase.getQuantity();
+        Assertions.assertNotNull(result);
+    }
+
+    @Test
+    public void test_setAndGetDiscount(){
+        petrolPurchase.setDiscount(20.5);
+        double result = petrolPurchase.getDiscount();
+        Assertions.assertNotNull(result);
+    }
 
 }
