@@ -1,102 +1,66 @@
 package bike;
 
 public class Bike {
-    public String isOn(String on) throws Exception {        if (on == "on"){
-            System.out.println("Bike is on");
-        }
-        else {
-            throw new Exception("Please start the bike");
-        }
-        return on;
+    private boolean isOn;
+    private boolean isOff;
+    private int speed;
+    private int gear;
+
+    public boolean isOn() { return isOn;}
+    public boolean isOff()  { return isOff;}
+
+    public int getSpeed() {
+        return speed;
     }
 
-    public String isOff(String off) throws Exception {
-        if (off == "off"){
-            System.out.println("Bike is off");
-        }
-        else {
-            throw new Exception("Please off the bike well");
-        }
-        return off;
+    public void setSpeed(int speed) {
+        this.speed = speed;
     }
 
-
-    public int gearOne(int speedLimit) throws Exception {
-        if (speedLimit<20 && speedLimit>=0) {
-            speedLimit++;
-            System.out.println("Hello your on gear one");
+    public void accelerate() {
+        if (speed >= 0 && speed <= 20){
+            speed+=1;
+            if(speed >20 && gear == 1) {
+                speed = 20;
+            }
+        } else if(speed>=21 && speed <=30) {
+            speed+=2;
+        } else if (speed >=31 && speed <=40) {
+            speed+=3;
+        } else if (speed >=41){
+            speed+=4;
         }
 
-        if (speedLimit>20 && speedLimit<=30){
-            speedLimit=gearTwo(speedLimit);
-        }
-        if (speedLimit < 0) {
-            throw new Exception("Invalid limit");
-        }
-        return speedLimit;
     }
 
-    public int gearTwo( int speedLimit) throws Exception {
-        if (speedLimit<30 && speedLimit>=20) {
-            speedLimit++;
-            System.out.println("Hello your on gear two");
-        } else {
-            throw new Exception("Your gear is not two");
+    public void deccelerate() {
+        if (speed > 0 && speed <= 20){
+            speed-=1;
+        } else if(speed >=21 && speed <=30) {
+            speed-=2;
+        } else if (speed >=31 && speed <=40) {
+            speed-=3;
+        } else if (speed >=41){
+            speed-=4;
         }
-
-        if (speedLimit>30 && speedLimit<=40){
-            speedLimit=gearTwo(speedLimit);
-        }
-        if (speedLimit < 20) {
-            throw new Exception("Invalid limit");
-        }
-        return speedLimit;
     }
 
-    public int gearThree(int gear, int speedLimit) throws Exception {
-        if (gear == 3) {
-            System.out.println("Hello your on gear Three");
-        } else {
-            throw new Exception("Your should be on gear 3");
-        }
-        if (speedLimit >= 31 && speedLimit <= 40) {
-            speedLimit += 3;
-        }
-        if (speedLimit > 40 || speedLimit < 31) {
-            throw new Exception("INVALID LIMIT");
-        }
-        return speedLimit;
+    int getGear(){
+        return gear;
     }
 
-    public int gearFour(int gear, int speedLimit) throws Exception{
-        if (gear == 4){
-            System.out.println("Hello your on four one");
+    public void increaseGear() {
+       gear+=1;
+        if (gear > 4) {
+            gear = 4;
         }
-        else {
-            throw new Exception("Not on gear 4");
-        }
-        if (speedLimit >= 41 && speedLimit <= 50) {
-            speedLimit += 4;
-        }
-        if (speedLimit > 50 || speedLimit < 41){
-            throw new Exception("invalid limit");
-        }
-        return speedLimit;
     }
 
-    public int gearMinusOne(int gear, int speedLimit) throws Exception {
-        if (gear == -1) {
-            System.out.println("Hello your on gear inus one");
-        } else {
-            throw new Exception("Your gear is not one");
+    public void decreaseGear() {
+        gear-=1;
+        if (gear < 0) {
+            gear = 0;
         }
-        if (speedLimit >= 0 && speedLimit <= 20) {
-            speedLimit--;
-        }
-        if (speedLimit > 20 || speedLimit < 0) {
-            throw new Exception("Invalid limit");
-        }
-        return speedLimit;
     }
-
 }
+

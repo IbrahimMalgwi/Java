@@ -4,6 +4,8 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import java.nio.channels.spi.AbstractInterruptibleChannel;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class BikeTest {
@@ -13,49 +15,62 @@ public class BikeTest {
     public void bike() {bike = new Bike();}
 
     @Test
-    public void test_isOn() throws Exception {
-        String result = bike.isOn("on");
-        Assertions.assertEquals(result, "on");
+    public void test_bikeOn() {
+        bike.isOn();
+        assertTrue(bike.isOn());
     }
 
     @Test
-    public void test_isOff() throws Exception {
-        String result = bike.isOff("off");
-        Assertions.assertEquals(result, "off");
+    public void test_bikeOff(){
+        bike.isOff();
+        assertFalse(bike.isOff());
     }
-
-
     @Test
-    public void test_gearOne() throws Exception { //given that i have a bike
-        int gearOne = bike.gearOne( 20); //Check for gear 1
-        Assertions.assertEquals(bike.gearTwo(20), 21); //Validate that gear one runs well
+    void testThatBikCanAccelerate(){
+        bike.accelerate();
+        bike.accelerate();
+        assertEquals(21,bike.getSpeed());
     }
-
     @Test
-    public void test_gearTwo() throws Exception {
-        int gearOne = bike.gearTwo( 22);
-        Assertions.assertEquals(gearOne, 24);
-    }
-
-    @Test
-    public void test_gearThree() throws Exception {
-        int gearThree = bike.gearThree(3, 32);
-        Assertions.assertEquals(gearThree, 35);
+    void testThatBikeCanDecelerate(){
+        bike.deccelerate();
+        bike.accelerate();
+        bike.deccelerate();
+        assertEquals(0, bike.getSpeed());
     }
 
     @Test
-    public void test_gearFour() throws Exception {
-        int gearFour = bike.gearFour(4, 43);
-        Assertions.assertEquals(gearFour, 47);
+    void accelerationWithGear(){
+        bike.increaseGear();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.increaseGear();
+        bike.accelerate();
+        bike.accelerate();
+        assertEquals(2, bike.getGear());
+        assertEquals(23, bike.getSpeed());
     }
 
-//    @Test
-//    void  testThatGearCanBeAutomated() throws Exception {
-//        bike.gearOne(1,20);
-
-
-
-    }
+}
 
 
 

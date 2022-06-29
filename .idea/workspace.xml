@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="my latet work">
-      <change afterPath="$PROJECT_DIR$/src/airConditioner/AirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/airConditioner/AirConditionerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/airConditioner/AirCondition.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/tddClass/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deitelExcersise/tddClass/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/airConditioner/AirConditionTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/bike/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bike/BikeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/petrol/PetrolPurchaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/petrol/PetrolPurchaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,53 +76,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberTriangle2">
-    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberTriangle" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberTriangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberTriangle2" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AirConditionerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="airConditioner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="airConditioner" />
-      <option name="MAIN_CLASS_NAME" value="airConditioner.AirConditionerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AirConditionerTest.testAirConditionCanBeOff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="airConditioner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="airConditioner" />
-      <option name="MAIN_CLASS_NAME" value="airConditioner.AirConditionerTest" />
-      <option name="METHOD_NAME" value="testAirConditionCanBeOff" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BikeTest.test_gearOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BikeTest.accelerationWithGear">
+    <configuration name="BikeTest.accelerationWithGear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -138,26 +87,90 @@
       </extension>
       <option name="PACKAGE_NAME" value="bike" />
       <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
-      <option name="METHOD_NAME" value="test_gearOne" />
+      <option name="METHOD_NAME" value="accelerationWithGear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.testGearIncrease" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
+      <option name="METHOD_NAME" value="testGearIncrease" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.testThatBikCanAccelerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
+      <option name="METHOD_NAME" value="testThatBikCanAccelerate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.testThatBikeCanDecelerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
+      <option name="METHOD_NAME" value="testThatBikeCanDecelerate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.test_bikeOff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
+      <option name="METHOD_NAME" value="test_bikeOff" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumberTriangle2" />
-      <item itemvalue="Application.NumberTriangle" />
-      <item itemvalue="JUnit.AirConditionerTest" />
-      <item itemvalue="JUnit.AirConditionerTest.testAirConditionCanBeOff" />
-      <item itemvalue="JUnit.BikeTest.test_gearOne" />
+      <item itemvalue="JUnit.BikeTest.accelerationWithGear" />
+      <item itemvalue="JUnit.BikeTest.testGearIncrease" />
+      <item itemvalue="JUnit.BikeTest.testThatBikCanAccelerate" />
+      <item itemvalue="JUnit.BikeTest.testThatBikeCanDecelerate" />
+      <item itemvalue="JUnit.BikeTest.test_bikeOff" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberTriangle2" />
-        <item itemvalue="JUnit.BikeTest.test_gearOne" />
-        <item itemvalue="Application.NumberTriangle" />
-        <item itemvalue="JUnit.AirConditionerTest.testAirConditionCanBeOff" />
-        <item itemvalue="JUnit.AirConditionerTest" />
+        <item itemvalue="JUnit.BikeTest.accelerationWithGear" />
+        <item itemvalue="JUnit.BikeTest.testThatBikeCanDecelerate" />
+        <item itemvalue="JUnit.BikeTest.testGearIncrease" />
+        <item itemvalue="JUnit.BikeTest.test_bikeOff" />
+        <item itemvalue="JUnit.BikeTest.testThatBikCanAccelerate" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +190,9 @@
       <workItem from="1656357645428" duration="6410000" />
       <workItem from="1656421339771" duration="529000" />
       <workItem from="1656428444404" duration="6728000" />
-      <workItem from="1656435525782" duration="8995000" />
+      <workItem from="1656435525782" duration="9174000" />
+      <workItem from="1656486720820" duration="638000" />
+      <workItem from="1656503255554" duration="11443000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -193,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656283702461</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="my latet work">
+      <created>1656454896595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656454896595</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
