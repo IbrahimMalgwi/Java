@@ -2,35 +2,33 @@ package petrol;
 
 public class PetrolPurchase {
     private String location;
-    private String typeOfPetrol;
+    private String fuel;
     private double price;
     private int quantity;
     private double discount;
 
     public PetrolPurchase(){
-
     }
 
-    public PetrolPurchase(String location, String typeOfPetrol, double price, int quantity, double discount) {
+    public PetrolPurchase(String location) {
         this.location = location;
-        this.typeOfPetrol = typeOfPetrol;
+        this.fuel = fuel;
         this.price = price;
         this.quantity = quantity;
         this.discount = discount;
     }
 
-    public String getLocation(){
-        return location;
+    public void getLocation(){
     }
     public void setLocation(String location){
         this.location = location;
     }
 
     public String getTypeOfPetrol(){
-        return typeOfPetrol;
+        return fuel;
     }
-    public void setTypeOfPetrol(String typeOfPetrol){
-        this.typeOfPetrol = typeOfPetrol;
+    public void setTypeOfPetrol(String fuel){
+        this.fuel = fuel;
     }
 
     public double getPrice(){

@@ -10,13 +10,12 @@ class PetrolPurchaseTest {
     private PetrolPurchase petrolPurchase;
 
     @BeforeEach
-    public void petrolPurchase() {petrolPurchase = new PetrolPurchase();}
+    public void petrolPurchase() {petrolPurchase = new PetrolPurchase("yaba");}
 
     @Test
     public void test_getAndSetLocation () {
-        petrolPurchase.setLocation("yaba");
-        String result = petrolPurchase.getLocation();
-        Assertions.assertNotNull(result);
+        petrolPurchase.getLocation();
+        assertEquals(yaba, );
     }
 
     @Test

@@ -5,6 +5,7 @@ public class AirConditioner {
     private int temperature = 16;
     private boolean isOn;
     private boolean isOff;
+    private String acName;
 
 
     public boolean isOn() {
@@ -47,5 +48,12 @@ public class AirConditioner {
 
     public void isOff() {
         isOff = true;
+    }
+
+    public void setName(String acName) {
+    }
+
+    public String getName() {
+        return acName;
     }
 }
