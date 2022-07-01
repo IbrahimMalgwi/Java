@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="Update">
+    <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/petrol/PetrolPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/petrol/UnicornPetrolStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bike/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bike/BikeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/tddClass/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/deitelExcersise/tddClass/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/petrol/PetrolPurchaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/petrol/UnicornPetrolStationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +59,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="deitelExcersise.tddClass" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\java\test\deitelExcersise\tddClass" />
       <recent name="C:\Users\user\IdeaProjects\java\src\deitelExcersise" />
@@ -63,23 +71,23 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="deitelExcersise" />
       <recent name="" />
       <recent name="petrol" />
       <recent name="bike" />
       <recent name="AirConditioner" />
-      <recent name="deitelExcersise.tddClass" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Loops">
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.Loops" />
+  <component name="RunManager" selected="Application.LetterGrade">
+    <configuration name="DoWhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.DoWhileTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelExcersise.*" />
+          <option name="PATTERN" value="deitelChapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,83 +95,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AirConditionerTest.testAirConditionCanBeOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.Interest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="airConditioner.*" />
+          <option name="PATTERN" value="deitelChapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="airConditioner" />
-      <option name="MAIN_CLASS_NAME" value="airConditioner.AirConditionerTest" />
-      <option name="METHOD_NAME" value="testAirConditionCanBeOn" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetrolPurchaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LetterGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.LetterGrade" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="petrol.*" />
+          <option name="PATTERN" value="deitelChapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="petrol" />
-      <option name="MAIN_CLASS_NAME" value="petrol.PetrolPurchaseTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetrolPurchaseTest.test_getAndSetLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.Sum" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="petrol.*" />
+          <option name="PATTERN" value="deitelChapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="petrol" />
-      <option name="MAIN_CLASS_NAME" value="petrol.PetrolPurchaseTest" />
-      <option name="METHOD_NAME" value="test_getAndSetLocation" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetrolPurchaseTest.test_getAndSetPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WhileCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.WhileCounter" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="petrol.*" />
+          <option name="PATTERN" value="deitelChapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="petrol" />
-      <option name="MAIN_CLASS_NAME" value="petrol.PetrolPurchaseTest" />
-      <option name="METHOD_NAME" value="test_getAndSetPrice" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Loops" />
-      <item itemvalue="JUnit.AirConditionerTest.testAirConditionCanBeOn" />
-      <item itemvalue="JUnit.PetrolPurchaseTest" />
-      <item itemvalue="JUnit.PetrolPurchaseTest.test_getAndSetLocation" />
-      <item itemvalue="JUnit.PetrolPurchaseTest.test_getAndSetPrice" />
+      <item itemvalue="Application.DoWhileTest" />
+      <item itemvalue="Application.Interest" />
+      <item itemvalue="Application.LetterGrade" />
+      <item itemvalue="Application.Sum" />
+      <item itemvalue="Application.WhileCounter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loops" />
-        <item itemvalue="JUnit.AirConditionerTest.testAirConditionCanBeOn" />
-        <item itemvalue="JUnit.PetrolPurchaseTest.test_getAndSetLocation" />
-        <item itemvalue="JUnit.PetrolPurchaseTest" />
-        <item itemvalue="JUnit.PetrolPurchaseTest.test_getAndSetPrice" />
+        <item itemvalue="Application.LetterGrade" />
+        <item itemvalue="Application.DoWhileTest" />
+        <item itemvalue="Application.Interest" />
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.WhileCounter" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +187,11 @@
       <workItem from="1656537346641" duration="17000" />
       <workItem from="1656552483400" duration="114000" />
       <workItem from="1656571548663" duration="338000" />
-      <workItem from="1656572146319" duration="3258000" />
+      <workItem from="1656572146319" duration="10977000" />
+      <workItem from="1656593678127" duration="1307000" />
+      <workItem from="1656607430792" duration="4154000" />
+      <workItem from="1656658318601" duration="7392000" />
+      <workItem from="1656688355532" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -227,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656575546548</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update">
+      <created>1656579918796</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656579918796</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +257,7 @@
     <MESSAGE value="my latet work" />
     <MESSAGE value="Bike update" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

@@ -10,7 +10,7 @@ public class AccountTest {
     @Test
     @DisplayName("Deposit money, balance increases test")
     public void depositMoneyBalanceIncreasesTest(){
-        //given That
+        //given
         Account jennyAccount = new Account();
         //when
         jennyAccount.deposit(500);

@@ -25,8 +25,12 @@ public class Bike {
             }
         } else if(speed>=21 && speed <=30) {
             speed+=2;
+            if (speed >31 && gear != 2)
+                speed = 30;
         } else if (speed >=31 && speed <=40) {
             speed+=3;
+            if(speed > 41 && gear !=3);
+              speed = 40;
         } else if (speed >=41){
             speed+=4;
         }

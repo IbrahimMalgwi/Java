@@ -66,8 +66,14 @@ public class BikeTest {
         bike.increaseGear();
         bike.accelerate();
         bike.accelerate();
-        assertEquals(2, bike.getGear());
-        assertEquals(23, bike.getSpeed());
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.accelerate();
+        bike.increaseGear();
+        assertEquals(3, bike.getGear());
+        assertEquals(34, bike.getSpeed());
     }
 
 }
