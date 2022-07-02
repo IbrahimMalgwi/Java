@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/petrol/PetrolPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/petrol/UnicornPetrolStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/bike/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bike/BikeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/tddClass/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/deitelExcersise/tddClass/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/petrol/PetrolPurchaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/petrol/UnicornPetrolStationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberTriangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberTriangle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/tddClass/AccountTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="deitelExcersise" />
       <recent name="deitelExcersise.tddClass" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -81,13 +79,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LetterGrade">
-    <configuration name="DoWhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.DoWhileTest" />
+  <component name="RunManager" selected="Application.DaysOfWeek">
+    <configuration name="DaysOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.DaysOfWeek" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelChapterFour.*" />
+          <option name="PATTERN" value="deitelExcersise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,72 +93,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.Interest" />
+    <configuration name="CalculatePriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelChapterFour.*" />
+          <option name="PATTERN" value="deitelExcersise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="deitelExcersise" />
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.CalculatePriceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.LetterGrade" />
+    <configuration name="CalculatePriceTest.calcculationForRangeTenToTwentyNineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelChapterFour.*" />
+          <option name="PATTERN" value="deitelExcersise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="deitelExcersise" />
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.CalculatePriceTest" />
+      <option name="METHOD_NAME" value="calcculationForRangeTenToTwentyNineTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.Sum" />
+    <configuration name="CalculatePriceTest.calculationForFiveHundredAndAbove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelChapterFour.*" />
+          <option name="PATTERN" value="deitelExcersise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="deitelExcersise" />
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.CalculatePriceTest" />
+      <option name="METHOD_NAME" value="calculationForFiveHundredAndAbove" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelChapterFour.WhileCounter" />
+    <configuration name="CalculatePriceTest.calculationForRangeTwoHundredToFiveHundred" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelChapterFour.*" />
+          <option name="PATTERN" value="deitelExcersise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="deitelExcersise" />
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.CalculatePriceTest" />
+      <option name="METHOD_NAME" value="calculationForRangeTwoHundredToFiveHundred" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DoWhileTest" />
-      <item itemvalue="Application.Interest" />
-      <item itemvalue="Application.LetterGrade" />
-      <item itemvalue="Application.Sum" />
-      <item itemvalue="Application.WhileCounter" />
+      <item itemvalue="Application.DaysOfWeek" />
+      <item itemvalue="JUnit.CalculatePriceTest" />
+      <item itemvalue="JUnit.CalculatePriceTest.calcculationForRangeTenToTwentyNineTest" />
+      <item itemvalue="JUnit.CalculatePriceTest.calculationForFiveHundredAndAbove" />
+      <item itemvalue="JUnit.CalculatePriceTest.calculationForRangeTwoHundredToFiveHundred" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LetterGrade" />
-        <item itemvalue="Application.DoWhileTest" />
-        <item itemvalue="Application.Interest" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.WhileCounter" />
+        <item itemvalue="Application.DaysOfWeek" />
+        <item itemvalue="JUnit.CalculatePriceTest" />
+        <item itemvalue="JUnit.CalculatePriceTest.calculationForFiveHundredAndAbove" />
+        <item itemvalue="JUnit.CalculatePriceTest.calculationForRangeTwoHundredToFiveHundred" />
+        <item itemvalue="JUnit.CalculatePriceTest.calcculationForRangeTenToTwentyNineTest" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +200,8 @@
       <workItem from="1656593678127" duration="1307000" />
       <workItem from="1656607430792" duration="4154000" />
       <workItem from="1656658318601" duration="7392000" />
-      <workItem from="1656688355532" duration="904000" />
+      <workItem from="1656688355532" duration="5970000" />
+      <workItem from="1656718605909" duration="4252000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -235,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656579918796</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1656690406242</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656690406242</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

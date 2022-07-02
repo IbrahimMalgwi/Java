@@ -4,8 +4,8 @@ public class NumberTriangle2 {
 
     public static void main(String[] args) {
         int rows;
-        int number1 =1;
-        int counter1 =1;
+        int number1 = 1;
+        int counter1 = 1;
 
         Scanner input = new Scanner(System.in);
 
@@ -21,8 +21,9 @@ public class NumberTriangle2 {
 
             number2 ++;
             counter2 ++;
+            counter1 ++;
         }
         System.out.println();
-        counter1 ++;
+
     }
 }
