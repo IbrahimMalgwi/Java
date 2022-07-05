@@ -12,7 +12,7 @@ public class CalculatePriceTest {
     }
 
     @Test
-    void calculationForRangeFiveToNineCopieTes(){
+    void calculationForRangeFiveToNineCopiesTest(){
         CalculatePrice price = new CalculatePrice();
         Assertions.assertEquals(10800, price.price(6));
     }

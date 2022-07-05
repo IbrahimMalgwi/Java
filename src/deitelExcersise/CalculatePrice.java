@@ -1,10 +1,10 @@
 package deitelExcersise;
 
 public class CalculatePrice {
-    private int price;
+    private int price = 0;
 
     public int price(int copy){
-        int price = 0;
+//        int price = 0;
         if (copy >= 1 && copy <= 4){
             price = copy * 2000;
         }

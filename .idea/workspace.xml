@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberTriangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberTriangle2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/tddClass/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/CalculatePrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deitelExcersise/CalculatePrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deitelExcersise/Interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/CalculatePriceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/deitelExcersise/CalculatePriceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +42,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/java/test/deitelExcersise/tddClass&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/java/test/deitelExcersise/tddClass",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="deitelExcersise" />
@@ -79,9 +85,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DaysOfWeek">
-    <configuration name="DaysOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.DaysOfWeek" />
+  <component name="RunManager" selected="Application.Semicolon">
+    <configuration name="NokiaMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.NokiaMenu" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -93,7 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatePriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Pertten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.Pertten" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -101,14 +108,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="deitelExcersise" />
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.CalculatePriceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatePriceTest.calcculationForRangeTenToTwentyNineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Semicolon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.Semicolon" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -116,15 +121,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="deitelExcersise" />
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.CalculatePriceTest" />
-      <option name="METHOD_NAME" value="calcculationForRangeTenToTwentyNineTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatePriceTest.calculationForFiveHundredAndAbove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SemicolonBuilding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitelExcersise.SemicolonBuilding" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -132,15 +134,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="deitelExcersise" />
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.CalculatePriceTest" />
-      <option name="METHOD_NAME" value="calculationForFiveHundredAndAbove" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatePriceTest.calculationForRangeTwoHundredToFiveHundred" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="deitelExcersise in Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -149,27 +147,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="deitelExcersise" />
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.CalculatePriceTest" />
-      <option name="METHOD_NAME" value="calculationForRangeTwoHundredToFiveHundred" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DaysOfWeek" />
-      <item itemvalue="JUnit.CalculatePriceTest" />
-      <item itemvalue="JUnit.CalculatePriceTest.calcculationForRangeTenToTwentyNineTest" />
-      <item itemvalue="JUnit.CalculatePriceTest.calculationForFiveHundredAndAbove" />
-      <item itemvalue="JUnit.CalculatePriceTest.calculationForRangeTwoHundredToFiveHundred" />
+      <item itemvalue="Application.NokiaMenu" />
+      <item itemvalue="Application.Pertten" />
+      <item itemvalue="Application.Semicolon" />
+      <item itemvalue="Application.SemicolonBuilding" />
+      <item itemvalue="JUnit.deitelExcersise in Java" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DaysOfWeek" />
-        <item itemvalue="JUnit.CalculatePriceTest" />
-        <item itemvalue="JUnit.CalculatePriceTest.calculationForFiveHundredAndAbove" />
-        <item itemvalue="JUnit.CalculatePriceTest.calculationForRangeTwoHundredToFiveHundred" />
-        <item itemvalue="JUnit.CalculatePriceTest.calcculationForRangeTenToTwentyNineTest" />
+        <item itemvalue="Application.Semicolon" />
+        <item itemvalue="Application.SemicolonBuilding" />
+        <item itemvalue="Application.NokiaMenu" />
+        <item itemvalue="JUnit.deitelExcersise in Java" />
+        <item itemvalue="Application.Pertten" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +197,15 @@
       <workItem from="1656607430792" duration="4154000" />
       <workItem from="1656658318601" duration="7392000" />
       <workItem from="1656688355532" duration="5970000" />
-      <workItem from="1656718605909" duration="4252000" />
+      <workItem from="1656718605909" duration="8974000" />
+      <workItem from="1656754030994" duration="29562000" />
+      <workItem from="1656861321765" duration="1865000" />
+      <workItem from="1656866197047" duration="1622000" />
+      <workItem from="1656870266713" duration="10577000" />
+      <workItem from="1656923499637" duration="6880000" />
+      <workItem from="1656948536735" duration="10617000" />
+      <workItem from="1657021130535" duration="711000" />
+      <workItem from="1657037467256" duration="11969000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -252,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656690406242</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1656723006060</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656723006061</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
