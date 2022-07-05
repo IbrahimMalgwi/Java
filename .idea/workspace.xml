@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/CalculatePrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deitelExcersise/CalculatePrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deitelExcersise/Interest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/CalculatePriceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/deitelExcersise/CalculatePriceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +200,7 @@
       <workItem from="1656923499637" duration="6880000" />
       <workItem from="1656948536735" duration="10617000" />
       <workItem from="1657021130535" duration="711000" />
-      <workItem from="1657037467256" duration="11969000" />
+      <workItem from="1657037467256" duration="13000000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -263,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656723006061</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new updates and codes">
+      <created>1657059108027</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657059108027</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +288,7 @@
     <MESSAGE value="Bike update" />
     <MESSAGE value="Update" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="new updates and codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="new updates and codes" />
   </component>
 </project>
