@@ -12,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -37,25 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/java/test/deitelExcersise/tddClass",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/java/test/deitelExcersise/tddClass&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="deitelExcersise" />
@@ -69,24 +69,27 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.RecentsKey">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="deitelExcersise" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="assignments" />
+      <recent name="deitelExcersise" />
+      <recent name="dietelChapterThree" />
       <recent name="" />
       <recent name="petrol" />
-      <recent name="bike" />
-      <recent name="AirConditioner" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Semicolon">
-    <configuration name="NokiaMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.NokiaMenu" />
+  <component name="RunManager" selected="Application.SevenSegmentDisplay">
+    <configuration name="MyersBriggsQuestionnaire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.MyersBriggsQuestionnaire" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelExcersise.*" />
+          <option name="PATTERN" value="assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pertten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.Pertten" />
+    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.PhoneBook" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelExcersise.*" />
+          <option name="PATTERN" value="assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semicolon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.Semicolon" />
+    <configuration name="SevenSegmentDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.SevenSegmentDisplay" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelExcersise.*" />
+          <option name="PATTERN" value="assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemicolonBuilding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitelExcersise.SemicolonBuilding" />
+    <configuration name="Work" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.Work" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelExcersise.*" />
+          <option name="PATTERN" value="assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,34 +136,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deitelExcersise in Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="assignments.StudentRecordTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.StudentRecordTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitelExcersise.*" />
+          <option name="PATTERN" value="assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="deitelExcersise" />
-      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NokiaMenu" />
-      <item itemvalue="Application.Pertten" />
-      <item itemvalue="Application.Semicolon" />
-      <item itemvalue="Application.SemicolonBuilding" />
-      <item itemvalue="JUnit.deitelExcersise in Java" />
+      <item itemvalue="Application.SevenSegmentDisplay" />
+      <item itemvalue="Application.Work" />
+      <item itemvalue="Application.MyersBriggsQuestionnaire" />
+      <item itemvalue="Application.PhoneBook" />
+      <item itemvalue="Application.assignments.StudentRecordTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Semicolon" />
-        <item itemvalue="Application.SemicolonBuilding" />
-        <item itemvalue="Application.NokiaMenu" />
-        <item itemvalue="JUnit.deitelExcersise in Java" />
-        <item itemvalue="Application.Pertten" />
+        <item itemvalue="Application.SevenSegmentDisplay" />
+        <item itemvalue="Application.MyersBriggsQuestionnaire" />
+        <item itemvalue="Application.PhoneBook" />
+        <item itemvalue="Application.assignments.StudentRecordTest" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +201,20 @@
       <workItem from="1656923499637" duration="6880000" />
       <workItem from="1656948536735" duration="10617000" />
       <workItem from="1657021130535" duration="711000" />
-      <workItem from="1657037467256" duration="13000000" />
+      <workItem from="1657037467256" duration="13027000" />
+      <workItem from="1657062103269" duration="1981000" />
+      <workItem from="1657093599273" duration="988000" />
+      <workItem from="1657109903182" duration="600000" />
+      <workItem from="1657128907418" duration="1405000" />
+      <workItem from="1657176991773" duration="1978000" />
+      <workItem from="1657181698468" duration="4254000" />
+      <workItem from="1657206199491" duration="3787000" />
+      <workItem from="1657265300490" duration="5686000" />
+      <workItem from="1657392199721" duration="6063000" />
+      <workItem from="1657532186789" duration="27514000" />
+      <workItem from="1657581674146" duration="5464000" />
+      <workItem from="1657629976382" duration="7107000" />
+      <workItem from="1657696703138" duration="1432000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -265,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657059108027</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new updates and codes">
+      <created>1657061075044</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657061075044</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
