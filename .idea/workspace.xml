@@ -2,79 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and codes">
-      <change afterPath="$PROJECT_DIR$/src/Excersises/NumberTriangle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/BookShelfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/CarApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/KataTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberTriangle2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bike/Bike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelChapterFour/ConditionalStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelChapterFour/DoWhileTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelChapterFour/ForCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelChapterFour/Interest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelChapterFour/LetterGrade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelChapterFour/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelChapterFour/WhileCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Acceleration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Arithmetic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Bmi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/BodyMassIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/BookShel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/BookShel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/CalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/CalculatePrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/CalculatePrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Calculations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Compare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/ComparingIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Cost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Cost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/DaysOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/DaysOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Energy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Energy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Feet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Feet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Guessing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Interest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Kilo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Kilo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Kilogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Lane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/LgAc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Maths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Multiple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Pi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/PopulationGrowth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Positive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Positive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Shape1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Sharps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/SquaresCubes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/SquaresCubes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitelExcersise/Students.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelChapterThree/Analysis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelChapterTwo/AirConditioner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelChapterTwo/AirConditionerTest.Java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelChapterTwo/Hangman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelChapterTwo/House.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelChapterTwo/HouseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelChapterTwo/NumberPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelChapterTwo/PetrolPurchase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/petrol/UnicornPetrolStation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/bike/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignments/BikeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dietel/Chapter3/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/Actest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/Actest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/BookShelfTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/CalculatePriceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/CalculatePriceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/CarApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/KataTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/deitelExcersise/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/petrol/UnicornPetrolStationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignments/UnicornPetrolStationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +13,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -155,32 +83,19 @@
       <recent name="semicolonAssignments" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="dataStructure" />
       <recent name="designPattern" />
       <recent name="employee" />
       <recent name="animalClassWork" />
       <recent name="dietel.Chapter9" />
-      <recent name="africa.semicolon.dietel.Chapter7" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DuckTest.fanTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compensationalModel.Main" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="compensationalModel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excersises.MultiplicationTable" />
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excersises.Array" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -192,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayrollSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="employee.PayrollSystem" />
+    <configuration name="Ex5_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.Chapter5.Ex5_15" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="employee.*" />
+          <option name="PATTERN" value="dietel.Chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,43 +120,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PolymorphismTest" />
+    <configuration name="ArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataStructure" />
+      <option name="MAIN_CLASS_NAME" value="dataStructure.ArrayListTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuckTest.fanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayListTest.addXYGetXYByIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPattern.*" />
+          <option name="PATTERN" value="dataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="designPattern" />
-      <option name="MAIN_CLASS_NAME" value="designPattern.DuckTest" />
-      <option name="METHOD_NAME" value="fanTest" />
+      <option name="PACKAGE_NAME" value="dataStructure" />
+      <option name="MAIN_CLASS_NAME" value="dataStructure.ArrayListTest" />
+      <option name="METHOD_NAME" value="addXYGetXYByIndexTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.newListIsEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataStructure" />
+      <option name="MAIN_CLASS_NAME" value="dataStructure.ArrayListTest" />
+      <option name="METHOD_NAME" value="newListIsEmptyTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.PayrollSystem" />
-      <item itemvalue="Application.PolymorphismTest" />
-      <item itemvalue="Application.MultiplicationTable" />
-      <item itemvalue="JUnit.DuckTest.fanTest" />
+      <item itemvalue="Application.Array" />
+      <item itemvalue="Application.Ex5_15" />
+      <item itemvalue="JUnit.ArrayListTest" />
+      <item itemvalue="JUnit.ArrayListTest.addXYGetXYByIndexTest" />
+      <item itemvalue="JUnit.ArrayListTest.newListIsEmptyTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DuckTest.fanTest" />
-        <item itemvalue="Application.PayrollSystem" />
-        <item itemvalue="Application.PolymorphismTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Ex5_15" />
+        <item itemvalue="JUnit.ArrayListTest" />
+        <item itemvalue="JUnit.ArrayListTest.newListIsEmptyTest" />
+        <item itemvalue="JUnit.ArrayListTest.addXYGetXYByIndexTest" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +276,8 @@
       <workItem from="1659795015517" duration="1106000" />
       <workItem from="1659891034703" duration="12175000" />
       <workItem from="1659948664968" duration="11137000" />
-      <workItem from="1660128047963" duration="6665000" />
+      <workItem from="1660128047963" duration="22795000" />
+      <workItem from="1660207286965" duration="9299000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -416,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657703033774</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new updates and codes">
+      <created>1660143263305</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660143263305</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
