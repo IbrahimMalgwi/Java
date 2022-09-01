@@ -1,4 +1,4 @@
-package africa.semicolon.dietel.Chapter4;
+package dietel.Chapter4;
 
 public class DoWhileTest {
     public static void main(String[] args) {

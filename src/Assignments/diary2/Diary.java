@@ -1,5 +1,4 @@
-package africa.semicolon.Assignments.diary2;
-
+package Assignments.diary2;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -8,93 +7,96 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Diary {
-    private DataBase dataBase;
-    private Scanner scanner = new Scanner(System.in);
+        private Database database;
+        private Scanner scanner = new Scanner(System.in);
 
-    public static DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("MM/dd/yyyy HH:mm");
-    public  static DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("M/d/y");
+        public static DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("MM/dd/yyyy HH:mm");
+        public  static DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("M/d/y");
 
-    public Diary() {
-        dataBase = new DataBase();
-    }
-
-    private LocalDateTime readDateTime() {
-        System.out.println("Enter date and time as mm/dd/yyyy hh:mm");
-        LocalDateTime dateTime;
-        try {
-            dateTime = LocalDateTime.parse(scanner.nextLine(), dateTimeFormatter);
+        public Diary() {
+            database = new Database();
         }
-        catch (DateTimeParseException e) {
-            System.out.println("Error. Please try again.");
-            return readDateTime();
-        }
-        return dateTime;
-    }
 
-    private LocalDate readDate() {
-        System.out.println("Enter date as mm/dd/yyyy");
-        LocalDate date;
-        try {
-            date = LocalDate.parse(scanner.nextLine(), dateFormatter);
-        } catch (DateTimeParseException e) {
-            System.out.println("Error. Please try again.");
-            return readDate();
+        private LocalDateTime readDateTime() {
+            System.out.println("Enter date and time as mm/dd/yyyy hh:mm");
+            LocalDateTime dateTime;
+            try {
+                dateTime = LocalDateTime.parse(scanner.nextLine(), dateTimeFormatter);
+            }
+            catch (DateTimeParseException e) {
+                System.out.println("Error. Please try again.");
+                return readDateTime();
+            }
+            return dateTime;
         }
-        return date;
-    }
+
+        private LocalDate readDate() {
+            System.out.println("Enter date as mm/dd/yyyy");
+            LocalDate date;
+            try {
+                date = LocalDate.parse(scanner.nextLine(), dateFormatter);
+            } catch (DateTimeParseException e) {
+                System.out.println("Error. Please try again.");
+                return readDate();
+            }
+            return date;
+        }
 
         public void addEntry() {
             LocalDateTime dateTime = readDateTime();
             System.out.println("Enter the entry text:");
             String text = scanner.nextLine();
-            dataBase.addEntry(dateTime, text);
+            database.addEntry(dateTime, text);
         }
 
 
-    public void printEntries(LocalDate day) {
-        ArrayList<Entry> entries = dataBase.findEntries(day.atStartOfDay(), false);
-        for (Entry entry : entries) {
-            System.out.println(entry);
-        }
-    }
-
-    public void searchEntries() {
-        // Entering the date
-        LocalDateTime dateTime = readDate().atStartOfDay();
-        // Searching for entries
-        ArrayList<Entry> entries = dataBase.findEntries(dateTime, false);
-        // Printing entries
-        if (entries.size() > 0) {
-            System.out.println("Entries found: ");
+        public void printEntries(LocalDate day) {
+            ArrayList<Entry> entries = database.findEntries(day.atStartOfDay(), false);
             for (Entry entry : entries) {
                 System.out.println(entry);
             }
-        } else {
-            // Nothing found
-            System.out.println("No entries were found.");
         }
-        scanner.nextLine(); // wait for enter
+
+        public void searchEntries() {
+            // Entering the date
+            LocalDateTime dateTime = readDate().atStartOfDay();
+            // Searching for entries
+            ArrayList<Entry> entries = database.findEntries(dateTime, false);
+            // Printing entries
+            if (entries.size() > 0) {
+                System.out.println("Entries found: ");
+                for (Entry entry : entries) {
+                    System.out.println(entry);
+                }
+            } else {
+                // Nothing found
+                System.out.println("No entries were found.");
+            }
+            scanner.nextLine(); // wait for enter
+        }
+
+        public void deleteEntries() {
+            System.out.println("Entries with the same exact date and time will be deleted");
+            LocalDateTime dateTime = readDateTime();
+            database.deleteEntries(dateTime);
+        }
+
+        public void printHomeScreen() {
+            System.out.println();
+            System.out.println();
+            System.out.println("Welcome to your virtual diary!");
+            System.out.println("Today is: " + LocalDateTime.now().format(dateTimeFormatter));
+            System.out.println();
+            // printing the home screen
+            System.out.println("Today:\n------");
+            printEntries(LocalDate.now());
+            System.out.println();
+            System.out.println("Tomorrow:\n---------");
+            printEntries(LocalDate.now().plusDays(1));
+            System.out.println();
+        }
+
     }
 
-    public void deleteEntries() {
-        System.out.println("Entries with the same exact date and time will be deleted");
-        LocalDateTime dateTime = readDateTime();
-        dataBase.deleteEntries(dateTime);
-    }
 
-    public void printHomeScreen() {
-        System.out.println();
-        System.out.println();
-        System.out.println("Welcome to your virtual diary!");
-        System.out.println("Today is: " + LocalDateTime.now().format(dateTimeFormatter));
-        System.out.println();
-        // printing the home screen
-        System.out.println("Today:\n------");
-        printEntries(LocalDate.now());
-        System.out.println();
-        System.out.println("Tomorrow:\n---------");
-        printEntries(LocalDate.now().plusDays(1));
-        System.out.println();
-    }
 
-}

@@ -1,6 +1,7 @@
 package dietel.Chapter8;
 import java.util.EnumSet;
 import static java.lang.Math.*;
+
 public enum Book {
      //declare constants of enum type
     JHTP("Java How to Program", "2015"),

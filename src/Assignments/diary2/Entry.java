@@ -1,11 +1,8 @@
-package africa.semicolon.Assignments.diary2;
-
+package Assignments.diary2;
 import java.time.LocalDateTime;
-
 public class Entry {
     private LocalDateTime dateTime;
     private String text;
-
     public Entry(LocalDateTime dateTime, String text) {
         this.dateTime = dateTime;
         this.text = text;
@@ -33,3 +30,5 @@ public class Entry {
         return dateTime.format(Diary.dateTimeFormatter) + " " + text;
     }
 }
+
+

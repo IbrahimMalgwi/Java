@@ -1,4 +1,4 @@
-package africa.semicolon.Assignments;
+package Assignments;
 
 public class LgAc {
     private boolean isOn;

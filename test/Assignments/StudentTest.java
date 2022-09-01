@@ -1,6 +1,6 @@
 package Assignments;
 
-import africa.semicolon.Assignments.Student;
+import Assignments.Student;
 
 class StudentTest {
     public static void main(String[] args) {

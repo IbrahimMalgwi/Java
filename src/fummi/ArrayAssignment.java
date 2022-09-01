@@ -1,10 +1,7 @@
 package fummi;
 
-import dietel.Chapter4.Interest;
-import dietel.Chapter7.Array;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 public class ArrayAssignment {

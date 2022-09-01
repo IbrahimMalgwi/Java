@@ -1,13 +1,13 @@
 package dietel.Chapter7;
 
 public class Card {
-    private final String face; // face of card ("Ace", "Deuce", ...)
-    private final String suit; // suit of card ("Hearts", "Diamonds", ...)
+    private final String face;
+    private final String suit;
 
-    // two-argument constructor initializes card's face and suit
+
     public Card(String cardFace, String cardSuit) {
-        this.face = cardFace; // initialize face of card
-        this.suit = cardSuit; // initialize suit of card
+        this.face = cardFace;
+        this.suit = cardSuit;
     }
 
     public String getFace() {
@@ -18,7 +18,7 @@ public class Card {
         return suit;
     }
 
-    // return String representation of Card
+
     public String toString() {
         return face + " of " + suit;
     }

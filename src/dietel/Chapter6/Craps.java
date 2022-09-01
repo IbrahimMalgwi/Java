@@ -1,4 +1,4 @@
-package africa.semicolon.dietel.Chapter6;
+package dietel.Chapter6;
 
 import java.security.SecureRandom;
 
@@ -16,7 +16,6 @@ public class Craps {
     public static void main(String[] args) {
         int myPoint = 0;
         Status gameStatus;
-
         int sumOfDice = rollDice();
 
         switch (sumOfDice) {

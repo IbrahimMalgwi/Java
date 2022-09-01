@@ -1,4 +1,4 @@
-package africa.semicolon.dietel.Chapter6;
+package dietel.Chapter6;
 
 public class GradeBook {
     private String courseName;

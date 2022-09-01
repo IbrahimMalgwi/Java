@@ -1,4 +1,4 @@
-package africa.semicolon.Assignments;
+package Assignments;
 
 public class SevenSegmentDisplay {
     static void row1(int display) {

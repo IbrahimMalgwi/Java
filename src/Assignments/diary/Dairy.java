@@ -1,4 +1,4 @@
-package africa.semicolon.Assignments.diary;
+package Assignments.diary;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;

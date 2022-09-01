@@ -1,4 +1,4 @@
-package africa.semicolon.dietel.Chapter7;
+package dietel.Chapter7;
 
 public class Arrays {
 

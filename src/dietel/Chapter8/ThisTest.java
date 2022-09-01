@@ -1,11 +1,13 @@
 package dietel.Chapter8;
 
+
 public class ThisTest {
     public static void main(String[] args) {
         SimpleTimeB time = new SimpleTimeB(15, 30, 19);
         System.out.println(time.buildString());
         }
     } // end class ThisTest
+
 
 class SimpleTime {
     private int hour; // 0-23
@@ -34,7 +36,6 @@ class SimpleTime {
     // "this" is not required here to access instance variables,
     // because method does not have local variables with same
     // names as instance variables
-
         return String.format("%02d:%02d:%02d", this.hour, this.minute, this.second);
     }
 } // end class SimpleTimeB

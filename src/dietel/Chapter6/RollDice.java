@@ -12,7 +12,7 @@ public class RollDice {
         int frequency5 = 0;
         int frequency6 = 0;
 
-        for (int roll = 1; roll <= 60000000; roll++) {
+        for (int roll = 1; roll <= 60_000_000; roll++) {
             int face = 1 + randomNumbers.nextInt(6);
 
             switch (face) {

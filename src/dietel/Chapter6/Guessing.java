@@ -1,4 +1,4 @@
-package africa.semicolon.dietel.Chapter6;
+package dietel.Chapter6;
 import java.sql.SQLOutput;
 import java.util.Random;
 import java.util.Scanner;

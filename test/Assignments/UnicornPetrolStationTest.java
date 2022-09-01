@@ -1,6 +1,6 @@
 package Assignments;
 
-import africa.semicolon.Assignments.UnicornPetrolStation;
+import Assignments.UnicornPetrolStation;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

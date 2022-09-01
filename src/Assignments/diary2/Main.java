@@ -1,11 +1,8 @@
-package africa.semicolon.Assignments.diary2;
-
-import africa.semicolon.Assignments.diary.Dairy;
-
+package Assignments.diary2;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             // diary instance
             Diary diary = new Diary();

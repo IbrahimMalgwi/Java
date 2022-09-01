@@ -1,6 +1,4 @@
-package africa.semicolon.Assignments;
-
-import java.lang.runtime.SwitchBootstraps;
+package Assignments;
 
 public class TwelveDaysOfChristmas {
     public static void main(String[] args) {

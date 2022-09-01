@@ -1,4 +1,4 @@
-package africa.semicolon.Assignments;
+package Assignments;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 package Assignments;
 
-import africa.semicolon.Assignments.ShopReceipt;
+import Assignments.ShopReceipt;
 
 import java.util.*;
 

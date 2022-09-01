@@ -1,4 +1,4 @@
-package africa.semicolon.dietel.Chapter4;
+package dietel.Chapter4;
 
 import java.util.Scanner;
 

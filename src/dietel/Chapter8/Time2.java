@@ -1,5 +1,6 @@
 package dietel.Chapter8;
 
+
 public class Time2 {
     private int hour; // 0 - 23
     private int minute; // 0 - 59
