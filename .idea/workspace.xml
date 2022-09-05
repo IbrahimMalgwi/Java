@@ -141,7 +141,7 @@
       <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/VarargsTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/Pen.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/PenPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/SketchPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/SketchPad1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/Turtle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/TurtleTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Book.java" afterDir="false" />
@@ -176,9 +176,10 @@
       <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Time2Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietel/Chapter9/CommissionEmployee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietel/Chapter9/CommissionEmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/SevenSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SevenSegment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assignments/TwelveDaysOfChristmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/TwelveDaysOfChristmas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Excersises/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Practice3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/BasePlusCommissionEmployee.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/CommissionEmployee.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/Employee.java" beforeDir="false" />
@@ -363,14 +364,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Enum" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -392,26 +393,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "ignore.preview.features.used": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/java/src/guitar",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/user/IdeaProjects/java/src/turtleGraphics&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="turtleChibuzo" />
@@ -431,27 +433,53 @@
       <recent name="C:\Users\user\IdeaProjects\java\src\dietelChapter3" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dietel.Chapter10.employee" />
+      <recent name="turtleGraphics" />
       <recent name="dietel.chapter14" />
       <recent name="guitar" />
       <recent name="tdd" />
-      <recent name="dietelEarlyObjects.chapter3" />
-      <recent name="africa.semicolon.array" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="bank" />
       <recent name="tdd" />
       <recent name="account" />
       <recent name="student" />
       <recent name="Excersises" />
-      <recent name="dietelEarlyObjects.chapter3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Turtle2Test">
-    <configuration name="TicTacBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TicTacBoard" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Guess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Guess" />
       <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.Chapter10.employee.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietel.Chapter10.employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excersises.Triangle" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Excersises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -471,7 +499,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Turtle2Test.turtleCanMoveWhileFacingEastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Turtle2Test.turtleCanWriteAndDisplayFacing_AllDirectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -481,58 +509,26 @@
       </extension>
       <option name="PACKAGE_NAME" value="turtleChibuzo" />
       <option name="MAIN_CLASS_NAME" value="turtleChibuzo.Turtle2Test" />
-      <option name="METHOD_NAME" value="turtleCanMoveWhileFacingEastTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Turtle2Test.turtleCanTurnLeft_whileFacingSouthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="turtleChibuzo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="turtleChibuzo" />
-      <option name="MAIN_CLASS_NAME" value="turtleChibuzo.Turtle2Test" />
-      <option name="METHOD_NAME" value="turtleCanTurnLeft_whileFacingSouthTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Turtle2Test.turtleCanTurnLeft_whileFacingWestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="turtleChibuzo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="turtleChibuzo" />
-      <option name="MAIN_CLASS_NAME" value="turtleChibuzo.Turtle2Test" />
-      <option name="METHOD_NAME" value="turtleCanTurnLeft_whileFacingWestTest" />
+      <option name="METHOD_NAME" value="turtleCanWriteAndDisplayFacing_AllDirectionTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TicTacBoard" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Triangle" />
+      <item itemvalue="Application.Guess" />
       <item itemvalue="JUnit.Turtle2Test" />
-      <item itemvalue="JUnit.Turtle2Test.turtleCanMoveWhileFacingEastTest" />
-      <item itemvalue="JUnit.Turtle2Test.turtleCanTurnLeft_whileFacingSouthTest" />
-      <item itemvalue="JUnit.Turtle2Test.turtleCanTurnLeft_whileFacingWestTest" />
+      <item itemvalue="JUnit.Turtle2Test.turtleCanWriteAndDisplayFacing_AllDirectionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.Turtle2Test" />
-        <item itemvalue="JUnit.Turtle2Test.turtleCanMoveWhileFacingEastTest" />
-        <item itemvalue="Application.TicTacBoard" />
-        <item itemvalue="JUnit.Turtle2Test.turtleCanTurnLeft_whileFacingSouthTest" />
-        <item itemvalue="JUnit.Turtle2Test.turtleCanTurnLeft_whileFacingWestTest" />
+        <item itemvalue="JUnit.Turtle2Test.turtleCanWriteAndDisplayFacing_AllDirectionTest" />
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.Guess" />
       </list>
     </recent_temporary>
   </component>
@@ -649,7 +645,13 @@
       <workItem from="1661189239670" duration="29665000" />
       <workItem from="1661337012036" duration="631000" />
       <workItem from="1662051950833" duration="427000" />
-      <workItem from="1662052403331" duration="241000" />
+      <workItem from="1662052403331" duration="1248000" />
+      <workItem from="1662055279364" duration="15854000" />
+      <workItem from="1662112338884" duration="14785000" />
+      <workItem from="1662218553454" duration="282000" />
+      <workItem from="1662220534840" duration="2038000" />
+      <workItem from="1662225623895" duration="6572000" />
+      <workItem from="1662346026575" duration="7893000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
