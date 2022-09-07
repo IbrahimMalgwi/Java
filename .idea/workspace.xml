@@ -2,358 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and codes">
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_15/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_15/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_15/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_15/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_15/PayrollMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_15/PieceWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_15/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_16/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_16/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_17/BasePlusCommissionCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_17/CommissionCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_17/CompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_17/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_17/HourlyCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_17/SalariedCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_18/CompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_18/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_18/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_18/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter10/Exercise10_18/SalariedCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/Bmi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/BodyMassIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/ComparingIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/Hangman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/HouseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/Multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/NumberPrint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/PetrolPurchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/PopulationGrowth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/Shape1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/Sharps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/SmallestAndLargeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/AirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/Analysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/HealthProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/HealthProfileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/HeartProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/HeartProfileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter3/InvoiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/Asterisks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/ClassAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/ClassAverageTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/ConditionalStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/Cryptography.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/DoWhileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/ForCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/Interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/LetterGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/Palindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/Pertten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/SalesCommissionCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/SalesPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/SalesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/sales/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/sales/SalesPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter4/sales/SalesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/AutoPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/AutoPolicyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/Counters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/Ex5_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/Interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/LetterGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/NumberTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/WhileCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter5/ex5_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/CoinTossing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/Craps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/DeckOfCardsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/DistanceBetweenPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/GradeBookMultiDim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/GradeCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/Guessing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/MaximumFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/MethodOverload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/NumberChanging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/RandomIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/ResersingDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/RollDice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/SperatingDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/StudentRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter6/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/AirlineReservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/ArrayListCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/ArrayManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/BarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/ComputeSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/ComputeSimulatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/DeckOfCardsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/DuplicateRemover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/EnhancedForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/GradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/GradeBookTwoDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/GradeBookTwoDimensionalArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/InitArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/MultidimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/PassArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/RollDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/RollingDice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/SalesCommision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/StudentPoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/SumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/VarargsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/PenPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/SketchPad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter7/turtle/TurtleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Employee2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Employee2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/Actest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/AirlineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/ArrayWithCheifTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/BookShelfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/CalculatePriceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/CarApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/CreditLimitCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/GradeBookMultiDimTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/GradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/KataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/StudentRecordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Excersises/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/MemberAccessTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/PackageDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/SimpleTimeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/StaticImportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/ThisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Time1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Time1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Time2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter8/Time2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter9/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietel/Chapter9/CommissionEmployeeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignments/SevenSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SevenSegment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignments/TwelveDaysOfChristmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/TwelveDaysOfChristmas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Excersises/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Practice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/BasePlusCommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/CommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/HourlyEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/PayrollMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/PieceWorker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_15/SalariedEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_16/Invoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_16/Payable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_17/BasePlusCommissionCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_17/CommissionCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_17/CompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_17/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_17/HourlyCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_17/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_17/SalariedCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_18/CompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_18/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_18/Invoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_18/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_18/Payable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter10/Exercise10_18/SalariedCompensationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/Addition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/Arithmetic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/Bmi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/BodyMassIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/ComparingIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/Hangman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/House.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/HouseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/Multiple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/NumberPrint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/PetrolPurchase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/PopulationGrowth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/Shape1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/Sharps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/SmallestAndLargeNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter2/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/AccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/AirConditioner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/Analysis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/CalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/Date.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/DateTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/EmployeeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/HealthProfile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/HealthProfileTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/HeartProfile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/HeartProfileTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/Invoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter3/InvoiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/Asterisks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/ClassAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/ClassAverageTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/ConditionalStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/Cryptography.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/DoWhileTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/ForCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/Interest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/LargestNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/LetterGrade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/Palindromes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/Pertten.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/SalesCommissionCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/SalesPerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/SalesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/StudentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/sales/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/sales/SalesPerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter4/sales/SalesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/AutoPolicy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/AutoPolicyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/Counters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/Ex5_15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/Interest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/LetterGrade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/LogicalOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/Loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/NumberTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/WhileCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter5/ex5_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/CoinTossing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/Craps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/DeckOfCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/DeckOfCardsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/DistanceBetweenPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/GradeBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/GradeBookMultiDim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/GradeCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/Guessing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/MaximumFinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/MethodOverload.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/NumberChanging.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/Numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/RandomIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/ResersingDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/RollDice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/Scope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/SperatingDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/StudentRecord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter6/Students.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/AirlineReservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/ArrayListCollection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/ArrayManipulations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/BarChart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/ComputeSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/ComputeSimulatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/DeckOfCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/DeckOfCardsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/DuplicateRemover.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/EnhancedForTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/FibonacciSeries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/GradeBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/GradeBookTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/GradeBookTwoDimensionalArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/GradeBookTwoDimensionalArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/InitArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/MultidimensionalArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/PassArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/RollDie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/RollingDice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/SalesCommision.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/StudentPoll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/SumArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/VarargsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/turtle/Pen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/turtle/PenPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/turtle/SketchPad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/turtle/Turtle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter7/turtle/TurtleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/BookTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Date.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Employee2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Employee2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/EmployeeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/Actest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/AirlineTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/ArrayWithCheifTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/BookShelfTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/CalculatePriceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/CarApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/CarTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/CreditLimitCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/GradeBookMultiDimTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/GradeBookTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/KataTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/StudentRecordTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Excersises/StudentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Interest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/MemberAccessTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/PackageDataTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/SimpleTimeB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/StaticImportTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/ThisTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Time1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Time1Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Time2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter8/Time2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter9/CommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dietel/Chapter9/CommissionEmployeeTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -440,20 +89,26 @@
       <recent name="tdd" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="dietel.Chapter5" />
       <recent name="bank" />
       <recent name="tdd" />
       <recent name="account" />
       <recent name="student" />
-      <recent name="Excersises" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Guess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Guess" />
+  <component name="RunManager" selected="Application.BarChartPrinting">
+    <configuration name="BarChartPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.Chapter5.BarChartPrinting" />
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietel.Chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -471,8 +126,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excersises.Triangle" />
+    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.Chapter5.NumberTriangle" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietel.Chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberTriangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excersises.NumberTriangle2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -499,36 +167,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Turtle2Test.turtleCanWriteAndDisplayFacing_AllDirectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="turtleChibuzo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="turtleChibuzo" />
-      <option name="MAIN_CLASS_NAME" value="turtleChibuzo.Turtle2Test" />
-      <option name="METHOD_NAME" value="turtleCanWriteAndDisplayFacing_AllDirectionTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.BarChartPrinting" />
+      <item itemvalue="Application.NumberTriangle" />
+      <item itemvalue="Application.NumberTriangle2" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Triangle" />
-      <item itemvalue="Application.Guess" />
       <item itemvalue="JUnit.Turtle2Test" />
-      <item itemvalue="JUnit.Turtle2Test.turtleCanWriteAndDisplayFacing_AllDirectionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BarChartPrinting" />
+        <item itemvalue="Application.NumberTriangle" />
+        <item itemvalue="Application.NumberTriangle2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.Turtle2Test" />
-        <item itemvalue="JUnit.Turtle2Test.turtleCanWriteAndDisplayFacing_AllDirectionTest" />
-        <item itemvalue="Application.Triangle" />
-        <item itemvalue="Application.Guess" />
       </list>
     </recent_temporary>
   </component>
@@ -651,7 +303,10 @@
       <workItem from="1662218553454" duration="282000" />
       <workItem from="1662220534840" duration="2038000" />
       <workItem from="1662225623895" duration="6572000" />
-      <workItem from="1662346026575" duration="7893000" />
+      <workItem from="1662346026575" duration="10724000" />
+      <workItem from="1662472964910" duration="28000" />
+      <workItem from="1662473147329" duration="195000" />
+      <workItem from="1662500211344" duration="3979000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -744,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661106499247</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="new updates and codes">
+      <created>1662392717202</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662392717203</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
