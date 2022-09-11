@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and codes">
+    <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and new codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietel/Chapter5/BarChartPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/Chapter5/BarChartPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turtleChubozo/SketchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/turtleChubozo/SketchPad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,29 +44,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/user/IdeaProjects/java/src/turtleGraphics&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/java&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Project.color": "2d4e40",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "ignore.preview.features.used": "true",
+    "last_directory_selection": "C:/Users/user/IdeaProjects/java/src",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/javaProjects",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="money" />
       <recent name="turtleChibuzo" />
       <recent name="bookstoread" />
       <recent name="deitelExcersise" />
@@ -89,23 +93,23 @@
       <recent name="tdd" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="dietel.Chapter3" />
       <recent name="dietel.Chapter5" />
       <recent name="bank" />
       <recent name="tdd" />
       <recent name="account" />
-      <recent name="student" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BarChartPrinting">
-    <configuration name="BarChartPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietel.Chapter5.BarChartPrinting" />
+  <component name="RunManager" selected="Application.WorldPopulationGrowth">
+    <configuration name="GradeBookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.Chapter3.GradeBookTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietel.Chapter5.*" />
+          <option name="PATTERN" value="dietel.Chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietel.Chapter10.employee.Main" />
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="partterns.Patterns" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietel.Chapter10.employee.*" />
+          <option name="PATTERN" value="partterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietel.Chapter5.NumberTriangle" />
+    <configuration name="WorldPopulationGrowth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.Chapter4.WorldPopulationGrowth" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietel.Chapter5.*" />
+          <option name="PATTERN" value="dietel.Chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,48 +143,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberTriangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excersises.NumberTriangle2" />
+    <configuration name="DollarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Excersises.*" />
+          <option name="PATTERN" value="money.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Turtle2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="turtleChibuzo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="turtleChibuzo" />
-      <option name="MAIN_CLASS_NAME" value="turtleChibuzo.Turtle2Test" />
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.DollarTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DollarTest.multiplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.DollarTest" />
+      <option name="METHOD_NAME" value="multiplicationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BarChartPrinting" />
-      <item itemvalue="Application.NumberTriangle" />
-      <item itemvalue="Application.NumberTriangle2" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.Turtle2Test" />
+      <item itemvalue="Application.GradeBookTest" />
+      <item itemvalue="Application.Patterns" />
+      <item itemvalue="Application.WorldPopulationGrowth" />
+      <item itemvalue="JUnit.DollarTest" />
+      <item itemvalue="JUnit.DollarTest.multiplicationTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BarChartPrinting" />
-        <item itemvalue="Application.NumberTriangle" />
-        <item itemvalue="Application.NumberTriangle2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.Turtle2Test" />
+        <item itemvalue="Application.WorldPopulationGrowth" />
+        <item itemvalue="Application.GradeBookTest" />
+        <item itemvalue="Application.Patterns" />
+        <item itemvalue="JUnit.DollarTest" />
+        <item itemvalue="JUnit.DollarTest.multiplicationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +313,20 @@
       <workItem from="1662346026575" duration="10724000" />
       <workItem from="1662472964910" duration="28000" />
       <workItem from="1662473147329" duration="195000" />
-      <workItem from="1662500211344" duration="3979000" />
+      <workItem from="1662500211344" duration="4822000" />
+      <workItem from="1662529393943" duration="4149000" />
+      <workItem from="1662612192617" duration="672000" />
+      <workItem from="1662615278821" duration="4595000" />
+      <workItem from="1662623082324" duration="3876000" />
+      <workItem from="1662633295493" duration="2982000" />
+      <workItem from="1662644363927" duration="2527000" />
+      <workItem from="1662648080768" duration="3877000" />
+      <workItem from="1662661088682" duration="1629000" />
+      <workItem from="1662701200214" duration="9000" />
+      <workItem from="1662702023021" duration="2293000" />
+      <workItem from="1662800231090" duration="11785000" />
+      <workItem from="1662846229472" duration="112000" />
+      <workItem from="1662846465541" duration="4548000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -406,7 +426,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662392717203</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new updates and codes">
+      <created>1662510371995</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662510371995</updated>
+    </task>
+    <task id="LOCAL-00016" summary="new updates and new codes">
+      <created>1662512458291</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662512458291</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,7 +464,8 @@
     <MESSAGE value="Update" />
     <MESSAGE value="update" />
     <MESSAGE value="new updates and codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="new updates and codes" />
+    <MESSAGE value="new updates and new codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="new updates and new codes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
