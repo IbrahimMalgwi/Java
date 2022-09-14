@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and new codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietel/Chapter5/BarChartPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/Chapter5/BarChartPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/turtleChubozo/SketchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/turtleChubozo/SketchPad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietel/Chapter4/LetterGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/Chapter4/LetterGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/OtherCharMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/OtherCharMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/RegexSubstitution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/RegexSubstitution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/StringBuilderAppend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/StringBuilderAppend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/Validate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/Validate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/ValidateInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/ValidateInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="JUnit5 Test Class" />
+        <option value="package.json" />
         <option value="Class" />
       </list>
     </option>
@@ -57,13 +62,13 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "ignore.preview.features.used": "true",
-    "last_directory_selection": "C:/Users/user/IdeaProjects/java/src",
+    "last_directory_selection": "C:/Users/user/IdeaProjects/java/src/money",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/javaProjects",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -103,13 +108,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WorldPopulationGrowth">
-    <configuration name="GradeBookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietel.Chapter3.GradeBookTest" />
+  <component name="RunManager" selected="JUnit.MoneyTest">
+    <configuration name="FIleIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excersises.FIleIO" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietel.Chapter3.*" />
+          <option name="PATTERN" value="Excersises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,33 +122,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="partterns.Patterns" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="partterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WorldPopulationGrowth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietel.Chapter4.WorldPopulationGrowth" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dietel.Chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DollarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -152,13 +131,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="money" />
-      <option name="MAIN_CLASS_NAME" value="money.DollarTest" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DollarTest.multiplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MoneyTest.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -167,27 +146,59 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="money" />
-      <option name="MAIN_CLASS_NAME" value="money.DollarTest" />
-      <option name="METHOD_NAME" value="multiplicationTest" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="METHOD_NAME" value="testEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.testFrancMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="METHOD_NAME" value="testFrancMultiplication" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.testMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="METHOD_NAME" value="testMultiplication" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GradeBookTest" />
-      <item itemvalue="Application.Patterns" />
-      <item itemvalue="Application.WorldPopulationGrowth" />
-      <item itemvalue="JUnit.DollarTest" />
-      <item itemvalue="JUnit.DollarTest.multiplicationTest" />
+      <item itemvalue="Application.FIleIO" />
+      <item itemvalue="JUnit.MoneyTest" />
+      <item itemvalue="JUnit.MoneyTest.testEquality" />
+      <item itemvalue="JUnit.MoneyTest.testFrancMultiplication" />
+      <item itemvalue="JUnit.MoneyTest.testMultiplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WorldPopulationGrowth" />
-        <item itemvalue="Application.GradeBookTest" />
-        <item itemvalue="Application.Patterns" />
-        <item itemvalue="JUnit.DollarTest" />
-        <item itemvalue="JUnit.DollarTest.multiplicationTest" />
+        <item itemvalue="JUnit.MoneyTest" />
+        <item itemvalue="JUnit.MoneyTest.testMultiplication" />
+        <item itemvalue="JUnit.MoneyTest.testEquality" />
+        <item itemvalue="Application.FIleIO" />
+        <item itemvalue="JUnit.MoneyTest.testFrancMultiplication" />
       </list>
     </recent_temporary>
   </component>
@@ -327,6 +338,11 @@
       <workItem from="1662800231090" duration="11785000" />
       <workItem from="1662846229472" duration="112000" />
       <workItem from="1662846465541" duration="4548000" />
+      <workItem from="1662872788441" duration="3147000" />
+      <workItem from="1662900062687" duration="5803000" />
+      <workItem from="1662961667876" duration="12306000" />
+      <workItem from="1662979508627" duration="17824000" />
+      <workItem from="1663017791527" duration="29533000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -440,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662512458291</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="new updates and new codes">
+      <created>1662872846741</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662872846741</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
