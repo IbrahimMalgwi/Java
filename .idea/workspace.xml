@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and new codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietel/Chapter4/LetterGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/Chapter4/LetterGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/OtherCharMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/OtherCharMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/RegexSubstitution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/RegexSubstitution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/StringBuilderAppend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/StringBuilderAppend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/Validate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/Validate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietel/chapter14/ValidateInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/chapter14/ValidateInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Excersises/TrianglePatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/TrianglePatterns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +14,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="package.json" />
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -63,7 +58,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "ignore.preview.features.used": "true",
     "last_directory_selection": "C:/Users/user/IdeaProjects/java/src/money",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/javaProjects",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/HasMapImplementation",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -91,30 +86,30 @@
       <recent name="C:\Users\user\IdeaProjects\java\src\dietelChapter3" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dietel.chapter15.xmlSerialization" />
+      <recent name="dietel.chapter15.creditManager" />
       <recent name="dietel.Chapter10.employee" />
       <recent name="turtleGraphics" />
       <recent name="dietel.chapter14" />
-      <recent name="guitar" />
-      <recent name="tdd" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="dietel.chapter14" />
       <recent name="dietel.Chapter3" />
       <recent name="dietel.Chapter5" />
       <recent name="bank" />
       <recent name="tdd" />
-      <recent name="account" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MoneyTest">
-    <configuration name="FIleIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excersises.FIleIO" />
+  <component name="RunManager" selected="Application.ReadSequentialFile">
+    <configuration name="CreateSequentialFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.chapter15.xmlSerialization.CreateSequentialFile" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Excersises.*" />
+          <option name="PATTERN" value="dietel.chapter15.xmlSerialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,83 +117,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CreditInquiry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.chapter15.creditManager.CreditInquiry" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="money.*" />
+          <option name="PATTERN" value="dietel.chapter15.creditManager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="money" />
-      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyTest.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileAndDirectorInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.chapter15.FileAndDirectorInfo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="money.*" />
+          <option name="PATTERN" value="dietel.chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="money" />
-      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
-      <option name="METHOD_NAME" value="testEquality" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyTest.testFrancMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadSequentialFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.chapter15.xmlSerialization.ReadSequentialFile" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="money.*" />
+          <option name="PATTERN" value="dietel.chapter15.xmlSerialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="money" />
-      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
-      <option name="METHOD_NAME" value="testFrancMultiplication" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyTest.testMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.chapter15.creditManager.ReadTextFile" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="money.*" />
+          <option name="PATTERN" value="dietel.chapter15.creditManager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="money" />
-      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
-      <option name="METHOD_NAME" value="testMultiplication" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FIleIO" />
-      <item itemvalue="JUnit.MoneyTest" />
-      <item itemvalue="JUnit.MoneyTest.testEquality" />
-      <item itemvalue="JUnit.MoneyTest.testFrancMultiplication" />
-      <item itemvalue="JUnit.MoneyTest.testMultiplication" />
+      <item itemvalue="Application.CreateSequentialFile" />
+      <item itemvalue="Application.CreditInquiry" />
+      <item itemvalue="Application.FileAndDirectorInfo" />
+      <item itemvalue="Application.ReadSequentialFile" />
+      <item itemvalue="Application.ReadTextFile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MoneyTest" />
-        <item itemvalue="JUnit.MoneyTest.testMultiplication" />
-        <item itemvalue="JUnit.MoneyTest.testEquality" />
-        <item itemvalue="Application.FIleIO" />
-        <item itemvalue="JUnit.MoneyTest.testFrancMultiplication" />
+        <item itemvalue="Application.ReadSequentialFile" />
+        <item itemvalue="Application.FileAndDirectorInfo" />
+        <item itemvalue="Application.CreateSequentialFile" />
+        <item itemvalue="Application.CreditInquiry" />
+        <item itemvalue="Application.ReadTextFile" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +326,26 @@
       <workItem from="1662900062687" duration="5803000" />
       <workItem from="1662961667876" duration="12306000" />
       <workItem from="1662979508627" duration="17824000" />
-      <workItem from="1663017791527" duration="29533000" />
+      <workItem from="1663017791527" duration="36350000" />
+      <workItem from="1663172960966" duration="4050000" />
+      <workItem from="1663198902017" duration="581000" />
+      <workItem from="1663259919184" duration="5649000" />
+      <workItem from="1663566366009" duration="768000" />
+      <workItem from="1663570959063" duration="388000" />
+      <workItem from="1663571379273" duration="3986000" />
+      <workItem from="1663587910558" duration="343000" />
+      <workItem from="1663588328256" duration="2548000" />
+      <workItem from="1663632081094" duration="639000" />
+      <workItem from="1663658445666" duration="598000" />
+      <workItem from="1663690552256" duration="12386000" />
+      <workItem from="1663745499762" duration="224000" />
+      <workItem from="1663752521570" duration="6649000" />
+      <workItem from="1663815593476" duration="2230000" />
+      <workItem from="1663896514514" duration="2959000" />
+      <workItem from="1663899569118" duration="3895000" />
+      <workItem from="1663914364863" duration="36000" />
+      <workItem from="1663922430847" duration="6287000" />
+      <workItem from="1663931352131" duration="2199000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -463,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662872846741</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="new updates and new codes">
+      <created>1663163962700</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663163962700</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
