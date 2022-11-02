@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and new codes">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignments/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignments/ShopReceipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopReceipt/ShopReceipt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Excersises/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fummi/ArrayAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fummi/ArrayAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignments/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignments/BikeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignments/ShopReceiptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/shopReceipt/ShopReceiptTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/airConditioner/AirConditionerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/airConditioner/AirConditionerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/Acceleration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/Acceleration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Excersises/Kilo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Kilo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Excersises/Semicolon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Semicolon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietel/Chapter6/NumberChanging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietel/Chapter6/NumberChanging.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +16,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package.json" />
         <option value="Enum" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,28 +47,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Project.color": "2d4e40",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "ignore.preview.features.used": "true",
-    "last_directory_selection": "C:/Users/user/IdeaProjects/java/src/money",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/java-how-to-program-11e-master",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Project.color&quot;: &quot;2d4e40&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/user/IdeaProjects/java/src/money&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/Intro-to-Java-Programming-master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="money" />
@@ -110,13 +106,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SalesCommissionCalculator">
-    <configuration name="DownCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.DownCasting" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="IntStreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.chapter17.IntStreamOperations" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="casting.*" />
+          <option name="PATTERN" value="dietel.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice2" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SalesCommissionCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietel.Chapter4.SalesCommissionCalculator" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="landas.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietel.Chapter4.*" />
+          <option name="PATTERN" value="landas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.UpCasting" />
+    <configuration name="RandomIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.chapter17.RandomIntegers" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="casting.*" />
+          <option name="PATTERN" value="dietel.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,35 +146,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamFilterMapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.chapter17.StreamFilterMapReduce" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="money.*" />
+          <option name="PATTERN" value="dietel.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="money" />
-      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietel.chapter17.StreamMapReduce" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietel.chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SalesCommissionCalculator" />
-      <item itemvalue="Application.DownCasting" />
-      <item itemvalue="Application.Practice2" />
-      <item itemvalue="Application.UpCasting" />
-      <item itemvalue="JUnit.MoneyTest" />
+      <item itemvalue="Application.IntStreamOperations" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.RandomIntegers" />
+      <item itemvalue="Application.StreamFilterMapReduce" />
+      <item itemvalue="Application.StreamMapReduce" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SalesCommissionCalculator" />
-        <item itemvalue="Application.Practice2" />
-        <item itemvalue="Application.DownCasting" />
-        <item itemvalue="Application.UpCasting" />
-        <item itemvalue="JUnit.MoneyTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.IntStreamOperations" />
+        <item itemvalue="Application.RandomIntegers" />
+        <item itemvalue="Application.StreamFilterMapReduce" />
+        <item itemvalue="Application.StreamMapReduce" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +379,18 @@
       <workItem from="1666451607296" duration="1882000" />
       <workItem from="1666533221633" duration="614000" />
       <workItem from="1666576775682" duration="4621000" />
-      <workItem from="1666685311756" duration="1336000" />
+      <workItem from="1666685311756" duration="2620000" />
+      <workItem from="1666769988633" duration="705000" />
+      <workItem from="1667000134812" duration="937000" />
+      <workItem from="1667058926943" duration="3896000" />
+      <workItem from="1667143144099" duration="1271000" />
+      <workItem from="1667297543994" duration="7498000" />
+      <workItem from="1667321540397" duration="212000" />
+      <workItem from="1667322897378" duration="873000" />
+      <workItem from="1667324642908" duration="6509000" />
+      <workItem from="1667363408980" duration="1959000" />
+      <workItem from="1667373033552" duration="1887000" />
+      <workItem from="1667380730081" duration="1922000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -514,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663944563868</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="new updates and new codes">
+      <created>1666720586313</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666720586313</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
