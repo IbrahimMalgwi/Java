@@ -102,33 +102,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryOperatorSample">
-    <configuration name="BiFunctionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.InterfacesExamples.functionExample.BiFunctionSample" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dietelHowToProgram.chapter17.InterfacesExamples.functionExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BiPredicateSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.InterfacesExamples.predicateExamples.BiPredicateSample" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dietelHowToProgram.chapter17.InterfacesExamples.predicateExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Example3">
     <configuration name="BinaryOperatorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.InterfacesExamples.binaryOperatorExample.BinaryOperatorSample" />
       <module name="Java" />
@@ -142,12 +116,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.InterfacesExamples.functionExample.FunctionSample" />
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.Example1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelHowToProgram.chapter17.InterfacesExamples.functionExample.*" />
+          <option name="PATTERN" value="dietelHowToProgram.chapter17.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.Example2" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietelHowToProgram.chapter17.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.Example3" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietelHowToProgram.chapter17.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BiFunctionSample" />
-      <item itemvalue="Application.BiPredicateSample" />
       <item itemvalue="Application.BinaryOperatorSample" />
-      <item itemvalue="Application.FunctionSample" />
+      <item itemvalue="Application.Example1" />
+      <item itemvalue="Application.Example2" />
+      <item itemvalue="Application.Example3" />
       <item itemvalue="Application.UnaryOperatorsSample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.BinaryOperatorSample" />
         <item itemvalue="Application.UnaryOperatorsSample" />
-        <item itemvalue="Application.BiFunctionSample" />
-        <item itemvalue="Application.FunctionSample" />
-        <item itemvalue="Application.BiPredicateSample" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +389,7 @@
       <workItem from="1667380730081" duration="10374000" />
       <workItem from="1667407372461" duration="1517000" />
       <workItem from="1667411123793" duration="2695000" />
-      <workItem from="1667541127088" duration="12670000" />
+      <workItem from="1667541127088" duration="18090000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -545,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667559968612</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="new updates and new codes">
+      <created>1667568271020</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667568271020</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
