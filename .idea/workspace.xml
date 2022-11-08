@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and new codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelHowToProgram/chapter17/stream/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelHowToProgram/chapter17/stream/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Assignments/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignments/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,22 +104,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example3">
-    <configuration name="BinaryOperatorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.InterfacesExamples.binaryOperatorExample.BinaryOperatorSample" />
+  <component name="RunManager" selected="Application.ClassWork">
+    <configuration name="Alphanumeric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alphanumeric" />
       <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dietelHowToProgram.chapter17.InterfacesExamples.binaryOperatorExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.Example1" />
+    <configuration name="ClassWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.ClassWork" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.Example2" />
+    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.Example15" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.Example3" />
+    <configuration name="Example17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.Example17" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -155,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnaryOperatorsSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.InterfacesExamples.unaryExample.UnaryOperatorsSample" />
+    <configuration name="IntStreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.IntStreamOperations" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelHowToProgram.chapter17.InterfacesExamples.unaryExample.*" />
+          <option name="PATTERN" value="dietelHowToProgram.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,19 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinaryOperatorSample" />
-      <item itemvalue="Application.Example1" />
-      <item itemvalue="Application.Example2" />
-      <item itemvalue="Application.Example3" />
-      <item itemvalue="Application.UnaryOperatorsSample" />
+      <item itemvalue="Application.Alphanumeric" />
+      <item itemvalue="Application.ClassWork" />
+      <item itemvalue="Application.Example15" />
+      <item itemvalue="Application.Example17" />
+      <item itemvalue="Application.IntStreamOperations" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.BinaryOperatorSample" />
-        <item itemvalue="Application.UnaryOperatorsSample" />
+        <item itemvalue="Application.ClassWork" />
+        <item itemvalue="Application.Alphanumeric" />
+        <item itemvalue="Application.IntStreamOperations" />
+        <item itemvalue="Application.Example17" />
+        <item itemvalue="Application.Example15" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +385,13 @@
       <workItem from="1667380730081" duration="10374000" />
       <workItem from="1667407372461" duration="1517000" />
       <workItem from="1667411123793" duration="2695000" />
-      <workItem from="1667541127088" duration="18090000" />
+      <workItem from="1667541127088" duration="21090000" />
+      <workItem from="1667674392655" duration="1403000" />
+      <workItem from="1667743939406" duration="1302000" />
+      <workItem from="1667811229849" duration="13157000" />
+      <workItem from="1667887852434" duration="687000" />
+      <workItem from="1667889945411" duration="1348000" />
+      <workItem from="1667897818315" duration="10646000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -552,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667568271020</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="new updates and new codes">
+      <created>1667575161460</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667575161460</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
