@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="422be8f5-e042-474d-a36d-4b02d3d1d831" name="Changes" comment="new updates and new codes">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/Pc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excersises/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SimpleCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/diary2/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/diary2/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/diary2/Diary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/diary2/Diary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/diary2/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/diary2/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/diary2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/diary2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dietelEarlyObjects/chapter3/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dietelEarlyObjects/chapter3/AccountTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +23,14 @@
       <list>
         <option value="package.json" />
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -39,6 +44,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2B47wo348UcqDe9Mc0Lg3RCAKL2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -47,28 +55,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Project.color&quot;: &quot;2d4e40&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Ibrahim Gana Malgwi/IdeaProjects/java/src/Excersises&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ibrahim Gana Malgwi/IdeaProjects/java&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.BikeTest.executor": "Coverage",
+    "JUnit.DiaryTest.testDiaryExist.executor": "Run",
+    "JUnit.Turtle2Test.executor": "Run",
+    "JUnit.Turtle2Test.turtleCanMoveWhileFacingSouthTest.executor": "Run",
+    "Project.color": "2d4e40",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.preview.features.used": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Ibrahim Gana Malgwi/IdeaProjects/java/src/Excersises",
+    "last_opened_file_path": "C:/Users/IbrahimMalgwi-PC/IdeaProjects/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="money" />
@@ -96,52 +117,18 @@
       <recent name="dietel.Chapter10.employee" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="diary" />
       <recent name="complexNumber" />
       <recent name="dietel.chapter14" />
       <recent name="dietel.Chapter3" />
       <recent name="dietel.Chapter5" />
-      <recent name="bank" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AreaOfCircle">
-    <configuration name="AreaOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excersises.AreaOfCircle" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Excersises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelHowToProgram.chapter17.stream.Example18" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dietelHowToProgram.chapter17.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeNumberDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excersises.PrimeNumberDemo" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SevenSegment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments.SevenSegment" />
+  <component name="RunManager" selected="JUnit.Turtle2Test.turtleCanMoveWhileFacingSouthTest">
+    <configuration name="BikeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -149,39 +136,102 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Assignments" />
+      <option name="MAIN_CLASS_NAME" value="Assignments.BikeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SevenSegmentDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments.SevenSegmentDisplay" />
+    <configuration name="DiaryTest.testDiaryExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignments.*" />
+          <option name="PATTERN" value="diary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="diary" />
+      <option name="MAIN_CLASS_NAME" value="diary.DiaryTest" />
+      <option name="METHOD_NAME" value="testDiaryExist" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="Turtle2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="turtleChibuzo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="turtleChibuzo" />
+      <option name="MAIN_CLASS_NAME" value="turtleChibuzo.Turtle2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Turtle2Test.turtleCanMoveWhileFacingSouthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="turtleChibuzo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="turtleChibuzo" />
+      <option name="MAIN_CLASS_NAME" value="turtleChibuzo.Turtle2Test" />
+      <option name="METHOD_NAME" value="turtleCanMoveWhileFacingSouthTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Write tests for class Entry" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="Java" />
+      <settings run-config-name="Write tests for class Entry" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="Assignments.diary2.Entry" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class SevenSegment" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="Java" />
+      <settings run-config-name="Write tests for class SevenSegment" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="Assignments.SevenSegment" />
+      </settings>
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.AreaOfCircle" />
-      <item itemvalue="Application.PrimeNumberDemo" />
-      <item itemvalue="Application.SevenSegment" />
-      <item itemvalue="Application.SevenSegmentDisplay" />
-      <item itemvalue="Application.Example18" />
+      <item itemvalue="Diffblue Cover.Write tests for class SevenSegment" />
+      <item itemvalue="Diffblue Cover.Write tests for class Entry" />
+      <item itemvalue="JUnit.Turtle2Test" />
+      <item itemvalue="JUnit.Turtle2Test.turtleCanMoveWhileFacingSouthTest" />
+      <item itemvalue="JUnit.DiaryTest.testDiaryExist" />
+      <item itemvalue="JUnit.BikeTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AreaOfCircle" />
-        <item itemvalue="Application.PrimeNumberDemo" />
-        <item itemvalue="Application.SevenSegmentDisplay" />
-        <item itemvalue="Application.SevenSegment" />
-        <item itemvalue="Application.Example18" />
+        <item itemvalue="JUnit.Turtle2Test.turtleCanMoveWhileFacingSouthTest" />
+        <item itemvalue="JUnit.Turtle2Test" />
+        <item itemvalue="Diffblue Cover.Write tests for class SevenSegment" />
+        <item itemvalue="JUnit.DiaryTest.testDiaryExist" />
+        <item itemvalue="Diffblue Cover.Write tests for class Entry" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -404,7 +454,26 @@
       <workItem from="1669680763460" duration="3000" />
       <workItem from="1671630344266" duration="3441000" />
       <workItem from="1671644419987" duration="699000" />
-      <workItem from="1671691623546" duration="687000" />
+      <workItem from="1671691623546" duration="3284000" />
+      <workItem from="1676152180928" duration="3543000" />
+      <workItem from="1684155558316" duration="325000" />
+      <workItem from="1699564759592" duration="137000" />
+      <workItem from="1700850602486" duration="1140000" />
+      <workItem from="1700866734784" duration="583000" />
+      <workItem from="1701280960666" duration="509000" />
+      <workItem from="1705614071104" duration="606000" />
+      <workItem from="1705615065431" duration="31000" />
+      <workItem from="1706966783652" duration="701000" />
+      <workItem from="1708587380816" duration="780000" />
+      <workItem from="1708883776414" duration="2879000" />
+      <workItem from="1708973189405" duration="645000" />
+      <workItem from="1709055169397" duration="594000" />
+      <workItem from="1709137904910" duration="91000" />
+      <workItem from="1709398924979" duration="100000" />
+      <workItem from="1709399061468" duration="45000" />
+      <workItem from="1710176231518" duration="4666000" />
+      <workItem from="1710266448050" duration="284000" />
+      <workItem from="1710657183271" duration="7919000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1656268446469</created>
@@ -588,7 +657,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671632310306</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="new updates and new codes">
+      <created>1671692338235</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1671692338235</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -633,6 +709,9 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Position_java$BikeTest.ic" NAME="BikeTest Coverage Results" MODIFIED="1708587479206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Assignments.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/java$GraderTest.ic" NAME="GraderTest Coverage Results" MODIFIED="1660795492105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>tdd.*</FILTER>
     </SUITE>
